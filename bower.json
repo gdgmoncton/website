@@ -1,0 +1,22 @@
+{
+  "name": "gdgMoncton",
+  "version": "0.0.0",
+  "authors": [
+    "jeanPokou <pokoujeanmarc@gmail.com>"
+  ],
+  "description": "website for gdg moncton",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "gdg",
+    "googlr",
+    "material",
+    "design"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "materialize": "~0.97.1",
+    "moment": "~2.10.6"
+  }
+}
